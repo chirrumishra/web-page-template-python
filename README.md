@@ -15,5 +15,8 @@ python3 manage.py runserver
 
 # Game Window
 ![](Outputs/game_play.mov)
+
+
 Your basic webpage using python and django is ready to use
 
+Source for game : https://www.w3schools.com/graphics/game_intro.asp
