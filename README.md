@@ -2,10 +2,10 @@
 
 ## How to use it
 ```bash
+git clone https://github.com/chirrumishra/web-page-template-python
+cd web-page-template-python
 pip install requirements.txt
-# this will install django
 python3 manage.py runserver
-#This will execute the code
 ```
 
 
