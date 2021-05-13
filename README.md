@@ -4,7 +4,7 @@
 ```bash
 git clone https://github.com/chirrumishra/web-page-template-python
 cd web-page-template-python
-pip install requirements.txt
+pip install -r requirements.txt
 python3 manage.py runserver
 ```
 
